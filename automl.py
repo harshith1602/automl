@@ -14,6 +14,7 @@ import streamlit as st
 import pandas as pd 
 import base64
 import io
+import scipy.linalg
 
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
